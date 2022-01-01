@@ -1,0 +1,14 @@
+{
+  "name": "task-tracker-solution",
+  "version": "0.1.0",
+  "description": "task tracker",
+  "main": "server.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "hsyn",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
